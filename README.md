@@ -1,4 +1,4 @@
-Projet Web – Site vitrine pour une photographe-
+## Projet Web – Site vitrine pour une photographe-
 Développement d’un site web fictif permettant de :
 
 -Accéder au portfolio de la photographe (galerie de photos organisées par thème) ;
@@ -7,6 +7,13 @@ Développement d’un site web fictif permettant de :
 
 -Consulter les disponibilités pour réserver une séance photo.
 
-Technologies utilisées : HTML, CSS, JavaScript.
-Contexte : Projet individuel réalisé dans le cadre de la formation OpenClassrooms.
-Visitez le site de Robbie Lens : https://ameyliaclt.github.io/Site_formation/
+## Technologies utilisées : 
+- HTML,
+- CSS,
+- JavaScript.
+
+## Contexte : 
+Projet individuel réalisé dans le cadre de la formation OpenClassrooms.
+
+### Visitez le site de Robbie Lens : 
+https://ameyliaclt.github.io/Site_formation/
